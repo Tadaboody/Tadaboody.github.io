@@ -1,1 +1,1 @@
-[Copy Bird](/games/CopyBird)
+[Copy Bird](/games/CopyBird/CopyBird)

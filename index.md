@@ -1,4 +1,4 @@
-- Games!
+- [Games!](/games)
 - Blogs?
 - Unprotected api!
 - More to come
